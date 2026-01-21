@@ -11,5 +11,4 @@ It will contain:
 
 This is an initial setup — currently in progress. The structure and core files will be added soon.
 
-## 📁 Planned Structure
 
